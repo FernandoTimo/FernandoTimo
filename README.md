@@ -1,16 +1,13 @@
-### Hi there 👋
+![Fernando](https://i.ibb.co/k2sz28p/Banner-Sunset.jpg)
 
-<!--
-**FernandoTimo/FernandoTimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+   <a href="https://www.youtube.com/channel/UCtDfSw53RGWXS0qcFaYZXog" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="FernandoTimo" height="28px" width="28px" />
+  </a>
+  <a href="https://twitter.com/timoideas" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="FernandoTimo" height="28px" width="28px" />
+  </a>
+  <a href="https://www.instagram.com/fernando_timo" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="FernandoTimo" height="28px" width="28px" />
+  </a>
+</p>
