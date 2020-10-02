@@ -1,7 +1,7 @@
 ![Fernando](https://i.ibb.co/k2sz28p/Banner-Sunset.jpg)
 
 <p align="center">
-   <a href="https://www.youtube.com/channel/UCtDfSw53RGWXS0qcFaYZXog" target="blank" style='backgroung:#fffff; width:30px;>
+   <a href="https://www.youtube.com/channel/UCtDfSw53RGWXS0qcFaYZXog" target="blank" style="backgroung:#fffff; width:30px">
     <img align="center" src="https://i.ibb.co/vDrd8tj/Youtube.png" alt="FernandoTimo" width="20px" />
   </a>
   <a href="https://twitter.com/timoideas" target="blank" style='margin-right:15px'>
