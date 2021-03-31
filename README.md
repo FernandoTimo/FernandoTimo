@@ -1,5 +1,5 @@
 ![Fernando](https://i.ibb.co/k2sz28p/Banner-Sunset.jpg)	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoTimo&langs_count=20&layout=compact&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoTimo&langs_count=20&layout=compact&theme=dracula)
 
 <p align="center">   
   <a href="https://www.instagram.com/fernando_timo" target="blank">
