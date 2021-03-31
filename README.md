@@ -1,5 +1,5 @@
-![Fernando](https://i.ibb.co/k2sz28p/Banner-Sunset.jpg)	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoTimo&langs_count=20&layout=compact&bg_color=00000000&text_color=8b949e&hide_border=true&title_color=58a6ff)
+![Banner](https://i.ibb.co/k2sz28p/Banner-Sunset.jpg)	
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoTimo&langs_count=20&layout=compact&bg_color=00000000&text_color=8b949e&hide_border=true&title_color=58a6ff)
 
 <p align="center">   
   <a href="https://www.instagram.com/fernando_timo" target="blank">
